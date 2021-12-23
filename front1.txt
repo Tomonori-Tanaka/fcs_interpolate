@@ -1,0 +1,16 @@
+      <FC2 pairs="0 0" multiplicity="1">
+      <FC2 pairs="0 3" multiplicity="1">
+      <FC2 pairs="0 87" multiplicity="1">
+      <FC2 pairs="0 6" multiplicity="1">
+      <FC2 pairs="0 7" multiplicity="1">
+      <FC2 pairs="0 9" multiplicity="2">
+      <FC2 pairs="0 10" multiplicity="2">
+      <FC2 pairs="0 39" multiplicity="2">
+      <FC2 pairs="0 12" multiplicity="1">
+      <FC2 pairs="0 15" multiplicity="1">
+      <FC2 pairs="0 17" multiplicity="1">
+      <FC2 pairs="0 24" multiplicity="1">
+      <FC2 pairs="0 25" multiplicity="1">
+      <FC2 pairs="0 27" multiplicity="4">
+      <FC2 pairs="0 30" multiplicity="4">
+      <FC2 pairs="0 135" multiplicity="8">

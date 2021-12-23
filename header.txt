@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <ALM_version>1.1.0</ALM_version>
+  <Optimize>
+    <DFSET>DFSET</DFSET>
+    <Constraint>1</Constraint>
+  </Optimize>
+  <Structure>
+    <NumberOfAtoms>54</NumberOfAtoms>
+    <NumberOfElements>1</NumberOfElements>
+    <AtomicElements>
+      <element number="1">Fe</element>
+    </AtomicElements>
+    <LatticeVector>
+      <a1> 1.623224400000000e+01 0.000000000000000e+00 0.000000000000000e+00</a1>
+      <a2> 0.000000000000000e+00 1.623224400000000e+01 0.000000000000000e+00</a2>
+      <a3> 0.000000000000000e+00 0.000000000000000e+00 1.623224400000000e+01</a3>
+    </LatticeVector>
+    <Periodicity>1 1 1</Periodicity>
+    <Position>
+      <pos index="1" element="Fe"> 0.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="2" element="Fe"> 0.000000000000000e+00 3.333333300000000e-01 0.000000000000000e+00</pos>
+      <pos index="3" element="Fe"> 1.666666700000000e-01 1.666666700000000e-01 1.666666700000000e-01</pos>
+      <pos index="4" element="Fe"> 1.666666700000000e-01 1.666666700000000e-01 5.000000000000000e-01</pos>
+      <pos index="5" element="Fe"> 0.000000000000000e+00 3.333333300000000e-01 6.666666700000000e-01</pos>
+      <pos index="6" element="Fe"> 3.333333300000000e-01 0.000000000000000e+00 6.666666700000000e-01</pos>
+      <pos index="7" element="Fe"> 1.666666700000000e-01 1.666666700000000e-01 8.333333300000000e-01</pos>
+      <pos index="8" element="Fe"> 0.000000000000000e+00 6.666666700000000e-01 0.000000000000000e+00</pos>
+      <pos index="9" element="Fe"> 3.333333300000000e-01 3.333333300000000e-01 3.333333300000000e-01</pos>
+      <pos index="10" element="Fe"> 1.666666700000000e-01 5.000000000000000e-01 5.000000000000000e-01</pos>
+      <pos index="11" element="Fe"> 5.000000000000000e-01 1.666666700000000e-01 5.000000000000000e-01</pos>
+      <pos index="12" element="Fe"> 1.666666700000000e-01 5.000000000000000e-01 8.333333300000000e-01</pos>
+      <pos index="13" element="Fe"> 6.666666700000000e-01 0.000000000000000e+00 6.666666700000000e-01</pos>
+      <pos index="14" element="Fe"> 5.000000000000000e-01 1.666666700000000e-01 8.333333300000000e-01</pos>
+      <pos index="15" element="Fe"> 6.666666700000000e-01 3.333333300000000e-01 0.000000000000000e+00</pos>
+      <pos index="16" element="Fe"> 5.000000000000000e-01 5.000000000000000e-01 1.666666700000000e-01</pos>
+      <pos index="17" element="Fe"> 1.666666700000000e-01 8.333333300000000e-01 5.000000000000000e-01</pos>
+      <pos index="18" element="Fe"> 8.333333300000000e-01 1.666666700000000e-01 5.000000000000000e-01</pos>
+      <pos index="19" element="Fe"> 6.666666700000000e-01 3.333333300000000e-01 6.666666700000000e-01</pos>
+      <pos index="20" element="Fe"> 8.333333300000000e-01 1.666666700000000e-01 8.333333300000000e-01</pos>
+      <pos index="21" element="Fe"> 6.666666700000000e-01 6.666666700000000e-01 0.000000000000000e+00</pos>
+      <pos index="22" element="Fe"> 8.333333300000000e-01 5.000000000000000e-01 1.666666700000000e-01</pos>
+      <pos index="23" element="Fe"> 6.666666700000000e-01 6.666666700000000e-01 3.333333300000000e-01</pos>
+      <pos index="24" element="Fe"> 8.333333300000000e-01 5.000000000000000e-01 5.000000000000000e-01</pos>
+      <pos index="25" element="Fe"> 6.666666700000000e-01 6.666666700000000e-01 6.666666700000000e-01</pos>
+      <pos index="26" element="Fe"> 8.333333300000000e-01 8.333333300000000e-01 5.000000000000000e-01</pos>
+      <pos index="27" element="Fe"> 8.333333300000000e-01 8.333333300000000e-01 8.333333300000000e-01</pos>
+      <pos index="28" element="Fe"> 0.000000000000000e+00 0.000000000000000e+00 3.333333300000000e-01</pos>
+      <pos index="29" element="Fe"> 0.000000000000000e+00 0.000000000000000e+00 6.666666700000000e-01</pos>
+      <pos index="30" element="Fe"> 3.333333300000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="31" element="Fe"> 0.000000000000000e+00 3.333333300000000e-01 3.333333300000000e-01</pos>
+      <pos index="32" element="Fe"> 3.333333300000000e-01 0.000000000000000e+00 3.333333300000000e-01</pos>
+      <pos index="33" element="Fe"> 3.333333300000000e-01 3.333333300000000e-01 0.000000000000000e+00</pos>
+      <pos index="34" element="Fe"> 1.666666700000000e-01 5.000000000000000e-01 1.666666700000000e-01</pos>
+      <pos index="35" element="Fe"> 0.000000000000000e+00 6.666666700000000e-01 3.333333300000000e-01</pos>
+      <pos index="36" element="Fe"> 6.666666700000000e-01 0.000000000000000e+00 0.000000000000000e+00</pos>
+      <pos index="37" element="Fe"> 5.000000000000000e-01 1.666666700000000e-01 1.666666700000000e-01</pos>
+      <pos index="38" element="Fe"> 0.000000000000000e+00 6.666666700000000e-01 6.666666700000000e-01</pos>
+      <pos index="39" element="Fe"> 6.666666700000000e-01 0.000000000000000e+00 3.333333300000000e-01</pos>
+      <pos index="40" element="Fe"> 3.333333300000000e-01 3.333333300000000e-01 6.666666700000000e-01</pos>
+      <pos index="41" element="Fe"> 3.333333300000000e-01 6.666666700000000e-01 0.000000000000000e+00</pos>
+      <pos index="42" element="Fe"> 1.666666700000000e-01 8.333333300000000e-01 1.666666700000000e-01</pos>
+      <pos index="43" element="Fe"> 3.333333300000000e-01 6.666666700000000e-01 3.333333300000000e-01</pos>
+      <pos index="44" element="Fe"> 8.333333300000000e-01 1.666666700000000e-01 1.666666700000000e-01</pos>
+      <pos index="45" element="Fe"> 6.666666700000000e-01 3.333333300000000e-01 3.333333300000000e-01</pos>
+      <pos index="46" element="Fe"> 5.000000000000000e-01 5.000000000000000e-01 5.000000000000000e-01</pos>
+      <pos index="47" element="Fe"> 3.333333300000000e-01 6.666666700000000e-01 6.666666700000000e-01</pos>
+      <pos index="48" element="Fe"> 1.666666700000000e-01 8.333333300000000e-01 8.333333300000000e-01</pos>
+      <pos index="49" element="Fe"> 5.000000000000000e-01 5.000000000000000e-01 8.333333300000000e-01</pos>
+      <pos index="50" element="Fe"> 5.000000000000000e-01 8.333333300000000e-01 1.666666700000000e-01</pos>
+      <pos index="51" element="Fe"> 5.000000000000000e-01 8.333333300000000e-01 5.000000000000000e-01</pos>
+      <pos index="52" element="Fe"> 5.000000000000000e-01 8.333333300000000e-01 8.333333300000000e-01</pos>
+      <pos index="53" element="Fe"> 8.333333300000000e-01 5.000000000000000e-01 8.333333300000000e-01</pos>
+      <pos index="54" element="Fe"> 8.333333300000000e-01 8.333333300000000e-01 1.666666700000000e-01</pos>
+    </Position>
+  </Structure>
+  <Symmetry>
+    <NumberOfTranslations>54</NumberOfTranslations>
+    <Translations>
+      <map tran="1" atom="1">1</map>
+      <map tran="2" atom="1">28</map>
+      <map tran="3" atom="1">29</map>
+      <map tran="4" atom="1">2</map>
+      <map tran="5" atom="1">5</map>
+      <map tran="6" atom="1">8</map>
+      <map tran="7" atom="1">38</map>
+      <map tran="8" atom="1">10</map>
+      <map tran="9" atom="1">3</map>
+      <map tran="10" atom="1">7</map>
+      <map tran="11" atom="1">4</map>
+      <map tran="12" atom="1">34</map>
+      <map tran="13" atom="1">12</map>
+      <map tran="14" atom="1">17</map>
+      <map tran="15" atom="1">48</map>
+      <map tran="16" atom="1">42</map>
+      <map tran="17" atom="1">30</map>
+      <map tran="18" atom="1">6</map>
+      <map tran="19" atom="1">9</map>
+      <map tran="20" atom="1">40</map>
+      <map tran="21" atom="1">33</map>
+      <map tran="22" atom="1">41</map>
+      <map tran="23" atom="1">47</map>
+      <map tran="24" atom="1">32</map>
+      <map tran="25" atom="1">43</map>
+      <map tran="26" atom="1">11</map>
+      <map tran="27" atom="1">37</map>
+      <map tran="28" atom="1">14</map>
+      <map tran="29" atom="1">16</map>
+      <map tran="30" atom="1">46</map>
+      <map tran="31" atom="1">49</map>
+      <map tran="32" atom="1">51</map>
+      <map tran="33" atom="1">50</map>
+      <map tran="34" atom="1">52</map>
+      <map tran="35" atom="1">36</map>
+      <map tran="36" atom="1">39</map>
+      <map tran="37" atom="1">13</map>
+      <map tran="38" atom="1">15</map>
+      <map tran="39" atom="1">45</map>
+      <map tran="40" atom="1">25</map>
+      <map tran="41" atom="1">21</map>
+      <map tran="42" atom="1">23</map>
+      <map tran="43" atom="1">19</map>
+      <map tran="44" atom="1">44</map>
+      <map tran="45" atom="1">22</map>
+      <map tran="46" atom="1">24</map>
+      <map tran="47" atom="1">27</map>
+      <map tran="48" atom="1">54</map>
+      <map tran="49" atom="1">26</map>
+      <map tran="50" atom="1">18</map>
+      <map tran="51" atom="1">20</map>
+      <map tran="52" atom="1">53</map>
+      <map tran="53" atom="1">31</map>
+      <map tran="54" atom="1">35</map>
+    </Translations>
+  </Symmetry>
+  <ForceConstants>
+    <HarmonicUnique>
+      <NFC2>16</NFC2>
